@@ -2,7 +2,7 @@
 
 ## A Fullstack reminder application
 
-Live on https://anjolaadeuyi.com
+Live on https://reminder-app-fullstack.vercel.app/
 
 **Reminder App View**
 
